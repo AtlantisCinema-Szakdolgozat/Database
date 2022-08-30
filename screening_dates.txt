@@ -1,0 +1,2 @@
+The website shows the current week's screenings.
+If there are no dates for that week, no films will be shown.
